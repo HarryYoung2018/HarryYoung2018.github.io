@@ -2,7 +2,7 @@
 
 ## **Vector**
 
-* $\vec{a}=<a_1,a_2,\ldots,a_n>=\lVert \vec{a} \rVert\cdot\hat{i}$ is a **vector** in $\mathbb{R}^n$
+* $\vec{a}=<a_1,a_2,\ldots,a_n>=\lVert \vec{a} \mathbb{R}Vert\cdot\hat{i}$ is a **vector** in $\mathbb{R}^n$
 * $\vec{a}$ has **length** $\lVert \vec{a}\rVert=\sqrt{a_1^2+a_2^2+\ldots+a_n^2}$
 * $\vec{a}$ points in direction of **unit vector** $\hat{i}=\frac{\vec{a}}{\lVert \vec{a}\rVert}$, where $\lVert\hat{i}\rVert=1$
 
@@ -37,7 +37,7 @@
 
 $$
 \begin{align}
-\forall \vec{A}=<a,b>&\text{, }\vec{B}=<c,d>\text{ in }\R^2\text{,}\\
+\forall \vec{A}=<a,b>&\text{, }\vec{B}=<c,d>\text{ in }\mathbb{R}^2\text{,}\\
 \vec{A}\cdot \vec{B}=ac+bd=\lVert \vec{A}\rVert \lVert \vec{B}\rVert \cdot \cos{\theta}&=\sqrt{\left(a^2+b^2\right)\left(c^2+d^2\right)}\cdot \cos{\theta}\\
 \left(ac+bd\right)^2=&\left(a^2+b^2\right)\left(c^2+d^2\right)\cdot \cos^2{\theta}\\
 \because \cos{\theta}\in[-1,1]\Rightarrow&\cos^2{\theta}\in[0,1]\\
@@ -73,9 +73,9 @@ $$
 
 ## Vector cross product
 
-* $\vec{a}\times\vec{b}=\left| \begin{matrix}\hat{i} & \hat{j} & \hat{k}\\ a_1 & a_2 & a_3\\ b_1 & b_2 & b_3\\ \end{matrix} \right|=\vec{c}=-\vec{b}\times\vec{a}$ is **cross product** of **2 vectors** in $\R^3$ or $\R^7$, $\vec{c}$ is perpendicular to the plane of $\vec{a}$ and $\vec{b}$ and **follows right-hand rule**, **length** of vector $\lVert \vec{c}\rVert=\lVert\vec{a}\times\vec{b}\rVert=\lVert\vec{a}\rVert\lVert\vec{b}\rVert\cdot\sin{\theta}$, $\mathbf{\vec{a}\times\vec{a}=0}$
+* $\vec{a}\times\vec{b}=\left| \begin{matrix}\hat{i} & \hat{j} & \hat{k}\\ a_1 & a_2 & a_3\\ b_1 & b_2 & b_3\\ \end{matrix} \right|=\vec{c}=-\vec{b}\times\vec{a}$ is **cross product** of **2 vectors** in $\mathbb{R}^3$ or $\mathbb{R}^7$, $\vec{c}$ is perpendicular to the plane of $\vec{a}$ and $\vec{b}$ and **follows right-hand rule**, **length** of vector $\lVert \vec{c}\rVert=\lVert\vec{a}\times\vec{b}\rVert=\lVert\vec{a}\rVert\lVert\vec{b}\rVert\cdot\sin{\theta}$, $\mathbf{\vec{a}\times\vec{a}=0}$
 * **parallel vectors** have $\theta=0,\sin{\theta}=0\Rightarrow\vec{a}\times\vec{b}=0$
-* $\vec{a}\cdot(\vec{b}\times\vec{c})=\left| \begin{matrix} a_1 & a_2 & a_3\\ b_1 & b_2 & b_3\\ c_1 & c_2 & c_3\\ \end{matrix} \right|=(\vec{a}\cdot\vec{c})\cdot\vec{b}-(\vec{a}\cdot\vec{b})\cdot\vec{c}$ is **triple product** of **3 vectors** in $\R^3$ or $\R^7$
+* $\vec{a}\cdot(\vec{b}\times\vec{c})=\left| \begin{matrix} a_1 & a_2 & a_3\\ b_1 & b_2 & b_3\\ c_1 & c_2 & c_3\\ \end{matrix} \right|=(\vec{a}\cdot\vec{c})\cdot\vec{b}-(\vec{a}\cdot\vec{b})\cdot\vec{c}$ is **triple product** of **3 vectors** in $\mathbb{R}^3$ or $\mathbb{R}^7$
 
 ### Areas of triangle and parallelogram
 

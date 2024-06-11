@@ -88,8 +88,3 @@ $S_{\mathrm{para}}=2S_\triangle=l\cdot \lVert b\rVert=\lVert\vec{a}\rVert\lVert\
 $V=h\cdot A=\lVert \vec{a}\cdot(\vec{b}\times\vec{c})\rVert$
 
 <img src="C:\Users\yangy\AppData\Roaming\Typora\typora-user-images\image-20231106184805575.png" alt="image-20231106184805575" style="zoom:67%;" />
-
-
-***
-
-***

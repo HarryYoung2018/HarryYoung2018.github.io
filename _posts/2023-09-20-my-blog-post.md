@@ -2,7 +2,7 @@
 
 ## **Vector**
 
-* $\vec{a}=<a_1,a_2,\ldots,a_n>=\lVert \vec{a} \rVert\cdot\hat{i}$ is a **vector** in $\R^n$
+* $\vec{a}=<a_1,a_2,\ldots,a_n>=\lVert \vec{a} \rVert\cdot\hat{i}$ is a **vector** in $\mathbb{R}^n$
 * $\vec{a}$ has **length** $\lVert \vec{a}\rVert=\sqrt{a_1^2+a_2^2+\ldots+a_n^2}$
 * $\vec{a}$ points in direction of **unit vector** $\hat{i}=\frac{\vec{a}}{\lVert \vec{a}\rVert}$, where $\lVert\hat{i}\rVert=1$
 
@@ -26,7 +26,7 @@
 
 ## Vector dot product
 
-* $\vec{a}\cdot \vec{b}=\sum a_i\cdot b_i=\lVert \vec{a}\rVert \lVert \vec{b}\rVert \cdot \cos{\theta}=scalar$ is **dot product** of **2 vectors** in $\R^n$, $\cos{\theta}=\frac{\vec{u}\cdot \hat{i}}{\lVert\vec{u}\rVert \lVert \hat{i}\rVert}$ is **direction angle** of **2 vectors**, $\mathbf{\vec{a}\cdot \vec{a}=\lVert \vec{a} \rVert^2=\vec{a}^2}$
+* $\vec{a}\cdot \vec{b}=\sum a_i\cdot b_i=\lVert \vec{a}\rVert \lVert \vec{b}\rVert \cdot \cos{\theta}=scalar$ is **dot product** of **2 vectors** in $\mathbb{R}^n$, $\cos{\theta}=\frac{\vec{u}\cdot \hat{i}}{\lVert\vec{u}\rVert \lVert \hat{i}\rVert}$ is **direction angle** of **2 vectors**, $\mathbf{\vec{a}\cdot \vec{a}=\lVert \vec{a} \rVert^2=\vec{a}^2}$
 * $\vec{a}\cdot\vec{b}=\vec{b}\cdot\vec{a}$, $(c\vec{a})\cdot\vec{b}=c(\vec{a}\cdot\vec{b})$, $\vec{a}\cdot\left(\vec{b}+\vec{c}\right)=\vec{a}\cdot\vec{b}+\vec{a}\cdot\vec{c}$
 * **orthogonal vectors** have $\theta=\frac{\pi}{2},\cos{\theta}=0\Rightarrow \vec{a}\cdot \vec{b}=0$
 * **parallel vectors** have $\theta=0,\cos{\theta}=1\Rightarrow \vec{a}\cdot \vec{b}=\lVert \vec{a}\rVert \lVert \vec{b}\rVert$
@@ -49,7 +49,7 @@ $$
 
 $$
 \begin{align}
-\forall \vec{A}=<a_1,\ldots,a_n>&\text{, }\vec{B}=<b_1,\ldots,b_n>\text{ in }\R^n\text{,}\\
+\forall \vec{A}=<a_1,\ldots,a_n>&\text{, }\vec{B}=<b_1,\ldots,b_n>\text{ in }\mathbb{R}^n\text{,}\\
 \vec{A}\cdot \vec{B}=\sum_{i=1}^na_i\cdot b_i&=\sqrt{\sum_{i=1}^na_i^2 \cdot\sum_{i=1}^n b_i^2}\cdot \cos{\theta}\\
 \left(\sum_{i=1}^na_i\cdot b_i\right)^2&=\sum_{i=1}^na_i^2 \cdot\sum_{i=1}^n b_i^2\cdot \cos^2{\theta}\\
 \because \cos{\theta}\in[-1,1]\Rightarrow&\cos^2{\theta}\in[0,1]\\

@@ -72,9 +72,9 @@ $$
 
 ## Vector cross product
 
-* $$\vec{a}\times\vec{b}=\begin{matrix}\hat{i} & \hat{j} & \hat{k}\\ a_1 & a_2 & a_3\\ b_1 & b_2 & b_3\\ \end{matrix}=\vec{c}=-\vec{b}\times\vec{a}$$ is **cross product** of **2 vectors** in $$\mathbb{R}^3$$ or $$\mathbb{R}^7$$, $$\vec{c}$$ is perpendicular to the plane of $$\vec{a}$$ and $$\vec{b}$$ and **follows right-hand rule**, **length** of vector $$\lVert \vec{c}\rVert=\lVert\vec{a}\times\vec{b}\rVert=\lVert\vec{a}\rVert\lVert\vec{b}\rVert\cdot\sin{\theta}$$, $$\mathbf{\vec{a}\times\vec{a}=0}$$
+* \[\vec{a}\times\vec{b}=\begin{matrix}\hat{i} & \hat{j} & \hat{k}\\ a_1 & a_2 & a_3\\ b_1 & b_2 & b_3\\ \end{matrix}=\vec{c}=-\vec{b}\times\vec{a}\] is **cross product** of **2 vectors** in $$\mathbb{R}^3$$ or $$\mathbb{R}^7$$, $$\vec{c}$$ is perpendicular to the plane of $$\vec{a}$$ and $$\vec{b}$$ and **follows right-hand rule**, **length** of vector $$\lVert \vec{c}\rVert=\lVert\vec{a}\times\vec{b}\rVert=\lVert\vec{a}\rVert\lVert\vec{b}\rVert\cdot\sin{\theta}$$, $$\mathbf{\vec{a}\times\vec{a}=0}$$
 * **parallel vectors** have $$\theta=0,\sin{\theta}=0\Rightarrow\vec{a}\times\vec{b}=0$$
-* $$\vec{a}\cdot(\vec{b}\times\vec{c})=\begin{matrix} a_1 & a_2 & a_3\\ b_1 & b_2 & b_3\\ c_1 & c_2 & c_3\\ \end{matrix}=(\vec{a}\cdot\vec{c})\cdot\vec{b}-(\vec{a}\cdot\vec{b})\cdot\vec{c}$$ is **triple product** of **3 vectors** in $$\mathbb{R}^3$$ or $$\mathbb{R}^7$$
+* \[\vec{a}\cdot(\vec{b}\times\vec{c})=\begin{matrix} a_1 & a_2 & a_3\\ b_1 & b_2 & b_3\\ c_1 & c_2 & c_3\\ \end{matrix}=(\vec{a}\cdot\vec{c})\cdot\vec{b}-(\vec{a}\cdot\vec{b})\cdot\vec{c}\] is **triple product** of **3 vectors** in $$\mathbb{R}^3$$ or $$\mathbb{R}^7$$
 
 ### Areas of triangle and parallelogram
 

@@ -9,8 +9,6 @@
 ### Vector triangle inequality $$\lVert \vec{a}+\vec{b} \rVert \leq \lVert \vec{a} \rVert+\lVert \vec{b} \rVert$$
 
 1. Geometric view
-
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Vector_triangle_inequality_vw.PNG" alt="File:Vector triangle inequality vw.PNG - Wikimedia Commons" style="zoom:33%;" />
    <img src="{{https://github.com/HarryYoung2018/HarryYoung2018.github.io}}/assets/img/VectorTriangleRelationship.jpg" style="zoom:33%;">
 
 2. Algebraic view

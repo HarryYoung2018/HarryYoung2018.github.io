@@ -1,5 +1,6 @@
 # Interesting Insight in an Olympiad Level Combinatorics Problem from the Binomial Perspective
 Finding the sum of the combination using the binomial theorem:
+
 \[
 \begin{align}
 	S&=\frac{1}{2022}\left(\begin{matrix} 1 \\ 2022 \end{matrix}\right)^2+\frac{2}{2021}\left(\begin{matrix} 2 \\ 2022 \end{matrix}\right)+\dots+\frac{2022}{1}\left(\begin{matrix} 2022 \\ 2022 \end{matrix}\right)^2\\
@@ -10,6 +11,7 @@ Finding the sum of the combination using the binomial theorem:
 	&=\sum_{i=1}^{k} \left(\begin{matrix} i-1 \\ k \end{matrix} \right)\cdot \left(\begin{matrix} k-i \\ k \end{matrix} \right)\\
 \end{align}
 \]
+
 This naturally reminds us of the binomial theorem:
 
 > \[
@@ -17,6 +19,7 @@ This naturally reminds us of the binomial theorem:
 > \]
 
 However, an insight of how the two equations relate is needed:
+
 \[
 \begin{align}
 	(1+x)^k\cdot(1+x)^k&=\left( \left(\begin{matrix} 0 \\ k \end{matrix} \right)+\left(\begin{matrix} 1 \\ k \end{matrix} \right)x+\ldots+\left(\begin{matrix} k \\ k \end{matrix} \right)x^k \right)^2\\
@@ -24,7 +27,9 @@ However, an insight of how the two equations relate is needed:
 	&=\left(\begin{matrix} m \\ k \end{matrix} \right)\left(\begin{matrix} n \\ k \end{matrix} \right)\cdot x^{m+n}\\
 \end{align}
 \]
+
 Thus, we have our solution:
+
 \[
 \begin{align}
 	x=0\Rightarrow 1&=\left(\begin{matrix} m \\ k \end{matrix} \right)\left(\begin{matrix} n \\ k \end{matrix} \right)\cdot 0^{m+n}\\

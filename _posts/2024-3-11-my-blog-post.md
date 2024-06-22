@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Binomial Theorem's Insight in a Combinatorics Problem"
+date:   2024-06-20 20:17:09 +0800
+categories: Mathematics
+---
+
 # SAT Test-taking Experience at St. Joseph University, Macau
 
 在[College Board 官网](https://www.collegeboard.org/)注册账号/登录后在https://satreg.collegeboard.org/register选择SAT考位。报名费60$。

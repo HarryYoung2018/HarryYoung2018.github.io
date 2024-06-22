@@ -7,16 +7,16 @@ categories: Mathematics
 
 # Notes on Calculus III - Vector Basics
 
-## **Vector**
+## Vector
 
-* $$\vec{a}=<a_1,a_2,\ldots,a_n>=\lVert \vec{a} \rVert\cdot\hat{i}$$ is a **vector** in $$\mathbb{R}^n$$
+* $\vec{a}=<a_1,a_2,\ldots,a_n>=\lVert \vec{a} \rVert\cdot\hat{i}$ is a **vector** in $\mathbb{R}^n$
 * $$\vec{a}$$ has **length** $$\lVert \vec{a}\rVert=\sqrt{a_1^2+a_2^2+\ldots+a_n^2}$$
 * $$\vec{a}$$ points in direction of **unit vector** $$\hat{i}=\frac{\vec{a}}{\lVert \vec{a}\rVert}$$, where $$\lVert\hat{i}\rVert=1$$
 
 ### Vector triangle inequality $$\lVert \vec{a}+\vec{b} \rVert \leq \lVert \vec{a} \rVert+\lVert \vec{b} \rVert$$
 
 1. Geometric view
-   <img src="https://github.com/HarryYoung2018/HarryYoung2018.github.io/assets/img/VectorTriangleRelationship.jpg" style="zoom:33%;">
+   <img src="/assets/img/VectorTriangleRelationship.jpg" style="zoom:33%;">
 
 2. Algebraic view
    $$

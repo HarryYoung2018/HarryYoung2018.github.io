@@ -6,7 +6,7 @@ categories: Mathematics
 ---
 
 # Interesting Insight in an Olympiad Level Combinatorics Problem
-##from the Binomial Perspective
+## from the Binomial Perspective
 
 Finding the sum of the combination using the binomial theorem:
 

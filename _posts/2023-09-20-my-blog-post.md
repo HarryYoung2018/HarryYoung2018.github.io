@@ -9,11 +9,11 @@ categories: Mathematics
 
 ## Vector
 
-* $\vec{a}=<a_1,a_2,\ldots,a_n>=\lVert \vec{a} \rVert\cdot\hat{i}$ is a **vector** in $\mathbb{R}^n$
-* $\vec{a}$ has **length** $\lVert \vec{a}\rVert=\sqrt{a_1^2+a_2^2+\ldots+a_n^2}$
-* $\vec{a}$ points in direction of **unit vector** $\hat{i}=\frac{\vec{a}}{\lVert \vec{a}\rVert}$, where $\lVert\hat{i}\rVert=1$
+* $$\vec{a}=<a_1,a_2,\ldots,a_n>=\lVert \vec{a} \rVert\cdot\hat{i}$$ is a **vector** in $$\mathbb{R}^n$$
+* $$\vec{a}$$ has **length** $$\lVert \vec{a}\rVert=\sqrt{a_1^2+a_2^2+\ldots+a_n^2}$$
+* $$\vec{a}$$ points in direction of **unit vector** $$\hat{i}=\frac{\vec{a}}{\lVert \vec{a}\rVert}$$, where $$\lVert\hat{i}\rVert=1$$
 
-### Vector triangle inequality $\lVert \vec{a}+\vec{b} \rVert \leq \lVert \vec{a} \rVert+\lVert \vec{b} \rVert$
+### Vector triangle inequality $$\lVert \vec{a}+\vec{b} \rVert \leq \lVert \vec{a} \rVert+\lVert \vec{b} \rVert$$
 
 1. Geometric view
    <img src="./assets/img/VectorTriangleRelationship.jpg" style="zoom:33%;">

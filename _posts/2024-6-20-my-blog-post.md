@@ -37,11 +37,11 @@ $$
 
 Thus, we have our solution:
 
-
+$$
 \begin{align}
 	x=0\Rightarrow 1&=\left(\begin{matrix} m \\ k \end{matrix} \right)\left(\begin{matrix} n \\ k \end{matrix} \right)\cdot 0^{m+n}\\
 	1 &=\left(\begin{matrix} i-1 \\ k \end{matrix} \right)\left(\begin{matrix} k-i \\ k \end{matrix} \right)\cdot 0^{k-1}\\
 	\therefore S&=\sum_{i=1}^{k} \left(\begin{matrix} i-1 \\ k \end{matrix} \right)\cdot \left(\begin{matrix} k-i \\ k \end{matrix} \right)\\
 	&=\sum_{i=1}^{k} 1=k\\
 \end{align}
-\]
+$$

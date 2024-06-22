@@ -5,9 +5,12 @@ date:   2024-06-20 20:17:09 +0800
 categories: Mathematics
 ---
 
-# Interesting Insight in an Olympiad Level Combinatorics Problem
+# Interesting Insight in a Combinatorics Problem
 
-Suppose we were asked to calculate the sum $$S=\frac{1}{2022}\left(\begin{matrix} 1 \\ 2022 \end{matrix}\right)^2+\frac{2}{2021}\left(\begin{matrix} 2 \\ 2022 \end{matrix}\right)+\dots+\frac{2022}{1}\left(\begin{matrix} 2022 \\ 2022 \end{matrix}\right)^2$$
+Suppose we were asked to calculate the summation:
+> $$
+> S=\frac{1}{2022}\left(\begin{matrix} 1 \\ 2022 \end{matrix}\right)^2+\frac{2}{2021}\left(\begin{matrix} 2 \\ 2022 \end{matrix}\right)+\dots+\frac{2022}{1}\left(\begin{matrix} 2022 \\ 2022 \end{matrix}\right)^2
+> $$
 
 Finding the sum of the combination using the binomial theorem:
 

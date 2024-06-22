@@ -5,7 +5,9 @@ date:   2024-06-20 20:17:09 +0800
 categories: Mathematics
 ---
 
-# Interesting Insight in an Olympiad Level Combinatorics Problem from the Binomial Perspective
+# Interesting Insight in an Olympiad Level Combinatorics Problem
+##from the Binomial Perspective
+
 Finding the sum of the combination using the binomial theorem:
 
 $$

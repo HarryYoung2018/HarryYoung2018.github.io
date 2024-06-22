@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Notes on Calculus III - Vector Basics"
+date:   2023-09-20 20:17:09 +0800
+categories: Mathematics
+---
+
 # Notes on Calculus III - Vector Basics
 
 ## **Vector**

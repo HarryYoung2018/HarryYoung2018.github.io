@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Interesting Insight in an Olympiad Level Combinatorics Problem"
+title:  "Binomial Theorem's Insight in a Combinatorics Problem"
 date:   2024-06-20 20:17:09 +0800
 categories: Mathematics
 ---
 
 # Interesting Insight in an Olympiad Level Combinatorics Problem
-## from the Binomial Perspective
+
+Suppose we were asked to calculate the sum $S=\frac{1}{2022}\left(\begin{matrix} 1 \\ 2022 \end{matrix}\right)^2+\frac{2}{2021}\left(\begin{matrix} 2 \\ 2022 \end{matrix}\right)+\dots+\frac{2022}{1}\left(\begin{matrix} 2022 \\ 2022 \end{matrix}\right)^2$
 
 Finding the sum of the combination using the binomial theorem:
 

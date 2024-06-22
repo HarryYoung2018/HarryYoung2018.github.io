@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Binomial Theorem's Insight in a Combinatorics Problem"
-date:   2024-06-20 20:17:09 +0800
-categories: Mathematics
+title:  "SAT Test-taking Experience at St. Joseph University, Macau"
+date:   2024-03-11
+categories: Life
 ---
 
 # SAT Test-taking Experience at St. Joseph University, Macau

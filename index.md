@@ -21,9 +21,14 @@ I was ranked top 1000 in the 2022 *Junior High School Scholastic Aptitude Examin
 Some of the club activities I've done over the years:
 * school biology club *BioCamp*, president
 * school *iGEM* club, president
-* Origami club, member
+* Origami club, vice president
 * financial mathematics club, member
-* 
+* HCC network technology club, member
+* moonlight science discussion club, member
+* school math modeling association, member
+* Flashworld photography club, member
+* school badminton team, member
+* $$\ldots$$
 
 ARML, BBO, BMT, CTB, HiMCM, JL essay competition, and S.T. Yau science award. I'm applying for the 2025 round of top undergrads in 🇺🇸 😣
 
@@ -40,7 +45,7 @@ Addition advanced courses I've taken in high school:
 * biochem (edX)
 * sociology
 
-I don't give a SHIT about these stats. But, if they help you get to know me 😋😜
+I don't ~~give a SHIT~~ care about these stats. But, if they help you get to know me 😋😜
 
 ## Aspirations 🎯
 

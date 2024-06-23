@@ -8,7 +8,8 @@ this is a brief intro about ~~Yoshikage Kira~~ me:
 Just kidding!
 
 ## Interests 🎇
-Hi, I'm **Harry Yang**, a high school student at **Beijing National Day School**. I'm an ardent learner interested in new things and getting to know new people. In addition to these curricula, I enjoy
+Hi, I'm **Harry Yang**, a high school student at **Beijing National Day School**. I'm an ardent learner interested in new things and getting to know new people.
+
 
 such as Machine Learning, Game Theory, Social Psychology, Synthetic Biology, Literature, and Sports. I'm working on many research projects.
 
@@ -16,25 +17,28 @@ Three quirky things about me: .
 
 
 ## Stats 🏆
-As of G12, I'll have attended these AP courses:
-* AP cal BC
-* AP chem
-* AP physics I
-* AP stats
-* AP pysch
-* AP bio
-* AP lang
-* AP lit
-* AP physics C
+I was ranked top 1000 in the 2022 *Junior High School Scholastic Aptitude Examination* (中考) in Haidian district, Beijing. I've got a satisfactory TOEFL score, a passable SAT score, and a decent GPA.
+Some of the club activities I've done over the years:
+* school biology club *BioCamp*, president
+* school *iGEM* club, president
+* Origami club, member
+* financial mathematics club, member
+* 
+
+ARML, BBO, BMT, CTB, HiMCM, JL essay competition, and S.T. Yau science award. I'm applying for the 2025 round of top undergrads in 🇺🇸 😣
+
+As of G12, these are some of the AP courses I have attended and got 5s:
+* AP cal BC 5'
+* AP chem 5'
+* AP bio 5'
+* AP lang 5'
 
 Addition advanced courses I've taken in high school:
 * cal III
 * probability theory
 * differential equation
-* marine bio
+* biochem (edX)
 * sociology
-
-I've got a satisfactory TOEFL score, a passable SAT score, and a decent GPA. I've been the president of the biology club *BioCamp* and the *iGEM* club as well as a member of the Origami club and financial mathematics club in our high school. I joined many academic competitions such as ARML, BBO, BMT, CTB, HiMCM, JL essay competition, and S.T. Yau science award. I'm applying for the 2025 round of top undergrads in 🇺🇸 😣
 
 I don't give a SHIT about these stats. But, if they help you get to know me 😋😜
 

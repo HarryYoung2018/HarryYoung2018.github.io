@@ -8,7 +8,7 @@ this is a brief intro about ~~Yoshikage Kira~~ me:
 Just kidding!
 
 ## Interests 🎇
-I'm **Harry Yang**, a high school student at **Beijing National Day School**. I'm an ardent learner interested in new things and getting to know new people. In addition to these curricula, I enjoy
+Hi, I'm **Harry Yang**, a high school student at **Beijing National Day School**. I'm an ardent learner interested in new things and getting to know new people. In addition to these curricula, I enjoy
 
 such as Machine Learning, Game Theory, Social Psychology, Synthetic Biology, Literature, and Sports. I'm working on many research projects.
 
@@ -16,7 +16,25 @@ Three quirky things about me: .
 
 
 ## Stats 🏆
-As of grade 12, I'll have learned calculus I~III, probability theory, AP stats, AP chem, AP physics, AP bio, marine bio, AP lang, AP lit, AP psych, and sociology in class. I've got a satisfactory TOEFL score, a passable SAT score, and a decent GPA. I've been the president of the biology club *BioCamp* and the *iGEM* club as well as a member of the Origami club and financial mathematics club in our high school. I joined many academic competitions such as ARML, BBO, BMT, CTB, HiMCM, JL essay competition, and S.T. Yau science award. I'm applying for the 2025 round of top undergrads in 🇺🇸 😣
+As of G12, I'll have attended these AP courses:
+* AP cal BC
+* AP chem
+* AP physics I
+* AP stats
+* AP pysch
+* AP bio
+* AP lang
+* AP lit
+* AP physics C
+
+Addition advanced courses I've taken in high school:
+* cal III
+* probability theory
+* differential equation
+* marine bio
+* sociology
+
+I've got a satisfactory TOEFL score, a passable SAT score, and a decent GPA. I've been the president of the biology club *BioCamp* and the *iGEM* club as well as a member of the Origami club and financial mathematics club in our high school. I joined many academic competitions such as ARML, BBO, BMT, CTB, HiMCM, JL essay competition, and S.T. Yau science award. I'm applying for the 2025 round of top undergrads in 🇺🇸 😣
 
 I don't give a SHIT about these stats. But, if they help you get to know me 😋😜
 

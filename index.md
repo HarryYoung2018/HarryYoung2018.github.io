@@ -24,9 +24,12 @@ Three quirky things about me: .
 My motto (picked up from the *How to Train Your Dragon Series* by Cressida Cowell) is
 > To become a hero the *hard* way.
 
-Another slange I like is
+Another slang I like is
 > Hope for the best, but prepare for the worst.
 
+Fac et spera
+
+anyways...
 ## Welcome!
 
 This is a platform where I can reach out to more people who share my interests and passions, take useful advice from them, and keep track of important moments and ideas for future reference.

@@ -6,7 +6,7 @@ Hi, this is a brief intro about ~~Yoshikage Kira~~ me:
 
 Just kidding!
 
-I'm **Harry Yang**, a high school student at **Beijing National Day School**. I'm an ardent learner interested in new things and getting to know new people. As of grade 12, I'll have learned calculus I~III, probability theory, AP stats, AP chem, AP physics, AP bio, marine bio, AP lang, AP lit, AP psych, and sociology in class. I've got a so-so TOEFL score, a SAT score of 1550, and a weighted GPA of 4.1/4.3.
+I'm **Harry Yang**, a high school student at **Beijing National Day School**. I'm an ardent learner interested in new things and getting to know new people. As of grade 12, I'll have learned calculus I~III, probability theory, AP stats, AP chem, AP physics, AP bio, marine bio, AP lang, AP lit, AP psych, and sociology in class. I've got a satisfactory TOEFL score, a passable SAT score, and a decent GPA. I've been the president of the biology club *BioCamp* and the *iGEM* club as well as a member of the Origami club and financial mathematics club in our high school. I joined many academic competitions such as ARML, BBO, BMT, CTB, HiMCM, JL essay competition, and S.T. Yau science award.
 
 I don't give a SHIT about these stats. But, if they help you get to know me 😋😜
 

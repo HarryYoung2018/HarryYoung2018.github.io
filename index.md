@@ -15,11 +15,11 @@ I work as an employee for the local department stores, and I get home every day 
 
 such as Machine Learning, Game Theory, Social Psychology, Synthetic Biology, Literature, and Sports. I'm working on many research projects.
 
-Three quirky things about me: my stomach is always upset 😠, I count prime numbers/digits after $$\pi$$ when I'm nervous, and .
+Three quirky things about me: my stomach is always upset 😠, I count prime numbers/digits after $$\pi$$ when I'm nervous, and I inadvertently.
 
 
 ## Stats 🏆
-I was ranked top 1000 in the 2022 *Junior High School Scholastic Aptitude Examination* (中考) in Haidian district, Beijing. I've got a satisfactory TOEFL score, a 😫 ACT score, a passable SAT score, and a decent GPA. I'm applying for the 2025 round of top undergrads in 🇺🇸 😣 I'd welcome any suggestions on college application 😘
+I was ranked top 10% in the 2022 *Junior High School Scholastic Aptitude Examination* (中考) in Haidian district, Beijing. I've got a satisfactory TOEFL score, a 😫 ACT score, a passable SAT score, and a decent GPA. I'm applying for the 2025 round of top undergrads in 🇺🇸 😣 I'd welcome any suggestions on college application 😘
 
 Some AP courses I've attended and got 5s:
 * AP cal BC

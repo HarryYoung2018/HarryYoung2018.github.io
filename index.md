@@ -15,7 +15,7 @@ I work as an employee for the local department stores, and I get home every day 
 
 such as Machine Learning, Game Theory, Social Psychology, Synthetic Biology, Literature, and Sports. I'm working on many research projects.
 
-Three quirky things about me: my stomach has a very bad temper 😠, .
+Three quirky things about me: my stomach is always upset 😠, I count prime numbers/digits after $$\pi$$ when I'm nervous, and .
 
 
 ## Stats 🏆

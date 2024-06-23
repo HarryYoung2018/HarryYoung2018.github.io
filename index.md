@@ -4,8 +4,9 @@ Hi, this is a brief intro about me:
 >   <img src="/assets/img/YoshikageKira.jpeg" style="zoom:80%;">
 > </p>
 
-Just kidding! I'm Harry Yang, a high school student in the AP program at Beijing National Day School. I'm a multipotentialite who loves learning new things and getting to know new people. 
+Just kidding!
 
+I'm **Harry Yang**, a high school student at **Beijing National Day School**. I'm an ardent learner interested in new things and getting to know new people. As of grade 12, I've learned calculus I~III, probability theory, AP stats, AP chem, AP physics, AP bio, marine bio, AP lan, AP lit, AP psych, and sociology in class. I've got a SAT score of 1550 and a weighted GPA of 4.2/4.3. But I don't give a **SHIT** about these stats. 
 such as Machine Learning, Game Theory, Social Psychology, Synthetic Biology, Literature, and Sports. I'm working on many research projects.
 
 This is a platform where I can reach out to more people who share my interests and passions, take useful advice from them, and keep track of important moments and ideas for future reference.

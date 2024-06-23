@@ -16,7 +16,7 @@ categories: Mathematics
 ### Vector triangle inequality $$\lVert \vec{a}+\vec{b} \rVert \leq \lVert \vec{a} \rVert+\lVert \vec{b} \rVert$$
 
 1. Geometric view
-   <img src="/assets/img/VectorTriangleRelationship.jpg" style="zoom:33%;">
+   <img src="/assets/img/VectorTriangleRelationship.png" style="zoom:33%;">
 
 2. Algebraic view
    $$
@@ -72,7 +72,7 @@ $$
 
   > vector at direction of $$\vec{a}$$ with length $$\mathrm{comp}_a b$$
 
-  <img src="https://calconcalculator.com/wp-content/uploads/2022/01/images-2-1.png" alt="Vector Projection Calculator - Solution with Steps | 2D, 3D" style="zoom:90%;" />
+  <img src="/assets/img/VectorOperations.png" style="zoom:90%;" />
 
 ---
 
@@ -86,10 +86,10 @@ $$
 
 $$S_{\mathrm{para}}=2S_\triangle=l\cdot \lVert b\rVert=\lVert\vec{a}\rVert\lVert\vec{b}\rVert\cdot\sin{\theta}=\lVert\vec{a}\times\vec{b}\rVert$$
 
-<img src="C:\Users\yangy\AppData\Roaming\Typora\typora-user-images\image-20240124122921431.png" alt="image-20240124122921431" style="zoom:35%;" />
+<img src="/assets/img/DotProduct.png" style="zoom:35%;" />
 
 ### Volume of parallelepiped
 
 $$V=h\cdot A=\lVert \vec{a}\cdot(\vec{b}\times\vec{c})\rVert$$
 
-<img src="C:\Users\yangy\AppData\Roaming\Typora\typora-user-images\image-20231106184805575.png" alt="image-20231106184805575" style="zoom:67%;" />
+<img src="/assets/img/CrossProduct.png" style="zoom:67%;" />

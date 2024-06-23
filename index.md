@@ -17,7 +17,8 @@ Three quirky things about me: .
 
 
 ## Stats 🏆
-I was ranked top 1000 in the 2022 *Junior High School Scholastic Aptitude Examination* (中考) in Haidian district, Beijing. I've got a satisfactory TOEFL score, a passable SAT score, and a decent GPA.
+I was ranked top 1000 in the 2022 *Junior High School Scholastic Aptitude Examination* (中考) in Haidian district, Beijing. I've got a satisfactory TOEFL score, , a passable SAT score, and a decent GPA. I'm applying for the 2025 round of top undergrads in 🇺🇸 😣
+
 Some of the club activities I've done over the years:
 * school biology club *BioCamp*, president
 * school *iGEM* club, president
@@ -28,9 +29,18 @@ Some of the club activities I've done over the years:
 * school math modeling association, member
 * Flashworld photography club, member
 * school badminton team, member
-* $$\ldots$$
+* ...
 
-ARML, BBO, BMT, CTB, HiMCM, JL essay competition, and S.T. Yau science award. I'm applying for the 2025 round of top undergrads in 🇺🇸 😣
+Some of the academic competitions I've done over the years:
+* ARML
+* BMT
+* BBO
+* iGEM
+* CTB
+* HiMCM
+* JL essay competition
+* S.T. Yau science award
+* ...
 
 As of G12, these are some of the AP courses I have attended and got 5s:
 * AP cal BC 5'

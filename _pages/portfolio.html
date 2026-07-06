@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Projects"
+permalink: /portfolio/
+author_profile: true
+---
+
+<p>Selected research and engineering projects, from diffusion-model optimization to synthetic
+biology and mathematical modeling. More on <a href="https://github.com/HarryYoung2018/">GitHub</a>.</p>
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+

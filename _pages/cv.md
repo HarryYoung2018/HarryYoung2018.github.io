@@ -35,11 +35,14 @@ Research experience
   Conditional diffusion surrogates for offline black-box optimization. **Accepted to ICML 2026** and the ICLR 2026 DeLTa workshop. Advisors: Ye Yuan &amp; Prof. Xue (Steve) Liu.
 * **Surrogate-Guided Memory Retrieval for Agents** — *co-first author*, Mila. *Apr 2026 – present.*
   Offline, surrogate-guided training of memory retrieval for autonomous agents.
-* **Multi-Modal Biomedical ML Agent Benchmark** — *contributing author*, GenBio AI (Prof. Le Song). *Oct 2025 – May 2026.*
-  Agent framework and benchmark for code generation on biological research tasks.
+* **BioXArena** — *key contributions to paper formulation*, GenBio AI (Prof. Le Song). *Oct 2025 – May 2026.*
+  Benchmark of 76 end-to-end biomedical ML coding tasks across 9 domains ([arXiv:2605.15766](https://arxiv.org/abs/2605.15766)).
+* **Herculean** — *ran several key experiments*. *Mar – May 2026.*
+  Agentic benchmark for financial intelligence; under review at NeurIPS 2026 ([arXiv:2605.14355](https://arxiv.org/abs/2605.14355)).
+* **QUACK** — *contributing author*, Mila. *2026.*
+  Auditing whether multimodal social-deduction agents' claims are grounded in what they observed ([arXiv:2605.27068](https://arxiv.org/abs/2605.27068)).
 * **Semi-Supervised High-Order Relation Learning** — *contributing author*, Harvard Medical School (Prof. Jun Wen). *Mar – May 2026.*
   Prediction over a drug–combination–disease relationship dataset.
-* **Agentic Benchmark for Financial Intelligence** — *contributing author*. *Mar – May 2026.*
 * **A Survey on Discrete Diffusion Models** — *contributing author*. *Mar 2026 – present.*
 
 Publications

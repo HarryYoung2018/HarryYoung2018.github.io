@@ -35,14 +35,14 @@ author:
 
   # Academic websites
   academia: # URL
-  arxiv: # URL - Update with the correct link to your profile
+  arxiv: "https://arxiv.org/search/?searchtype=author&query=Yonghan+Yang" # listing; arXiv author pages (arxiv.org/a/...) must be claimed separately
   googlescholar: "https://scholar.google.com/citations?user=XJJjo0sAAAAJ"
   inspire-hep: # URL
   impactstory: # URL
   orcid: "https://orcid.org/0009-0009-5228-3624"
-  semantic: # URL
+  semantic: # URL - auto-generated page; add once indexed
   pubmed: # URL
-  researchgate: # URL
+  researchgate: "https://www.researchgate.net/profile/Yonghan-Yang"
   scopus: # URL
 
   # Repositories and software development
@@ -50,7 +50,8 @@ author:
   codepen: # Username
   dribbble: # Username
   github: "HarryYoung2018"
-  kaggle: # Username
+  huggingface: "SuperHarry" # Username (custom field, rendered in _includes/author-profile.html)
+  kaggle: "harryyyang" # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
@@ -72,12 +73,12 @@ author:
   steam: # Username
   telegram: # URL
   tumblr: # Username
-  twitter: # Username for X / Twitter
+  twitter: "MorningWorrier" # Username for X / Twitter
   vine: # Username
   weibo: # Username
   wikipedia: # Username
   xing: # Username
-  youtube: # Username
+  youtube: "YonghanYang-b8i" # Username (theme prefixes @)
   zhihu: # Username
 
 # Publication Category - The following the list of publication categories and their headings

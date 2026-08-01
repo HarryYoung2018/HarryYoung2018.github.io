@@ -39,6 +39,9 @@ My motto, borrowed from Cressida Cowell, is ***to become a hero the hard way.***
 
 ## News
 
+- **May 2026** — [QUACK](https://arxiv.org/abs/2605.27068), on auditing whether social-deduction agents actually mean what they say, is on arXiv.
+- **May 2026** — [Herculean](https://arxiv.org/abs/2605.14355), an agentic benchmark for financial intelligence, is under review at **NeurIPS 2026**.
+- **May 2026** — [BioXArena](https://arxiv.org/abs/2605.15766), a benchmark for biomedical ML agents, is on arXiv.
 - **May 2026** — [SPADE](https://arxiv.org/abs/2605.11246) accepted to **ICML 2026** (co-first author).
 - **Feb 2026** — Serving as a reviewer for the **ICLR 2026 Workshop [FM4Science](https://fm-science.github.io/)**.
 - **Jan 2026** — SPADE also accepted to the **ICLR 2026 [DeLTa](https://openreview.net/forum?id=bTMCB3gorf) workshop**.

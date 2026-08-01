@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-herculean-agentic-benchmark-financial-intelligence
 excerpt: 'Herculean evaluates AI agents on practical financial workflows across four domains — Trading, Hedging, Market Insights, and Auditing — each a standardized environment with its own tools and success criteria. Frontier agents do well on Trading and Market Insights but struggle badly with Hedging and Auditing, where long-horizon coordination, state consistency, and structured verification matter.'
 date: 2026-05-17
-venue: 'arXiv preprint · under review at NeurIPS 2026'
+venue: 'arXiv preprint · under review at NeurIPS'
 paperurl: 'https://arxiv.org/abs/2605.14355'
 citation: 'Xueqing Peng, Zhuohan Xie, Yupeng Cao, et al. (including Yonghan Yang). (2026). &quot;Herculean: An Agentic Benchmark for Financial Intelligence.&quot; <i>arXiv:2605.14355</i>. Under review at NeurIPS 2026.'
 ---

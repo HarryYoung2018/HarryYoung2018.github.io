@@ -18,13 +18,18 @@ beyond the data it was trained on without fooling itself?* This led to
 [**SPADE**](https://arxiv.org/abs/2605.11246) (ICML 2026), where a calibrated conditional
 diffusion surrogate is kept honest by a support-proximity prior for offline black-box
 optimization. I am now extending these ideas to **memory retrieval for autonomous agents**,
-**discrete diffusion**, and **biomedical foundation models**, in collaboration with researchers
-at [Mila](https://mila.quebec/en), [Harvard Medical School](https://hms.harvard.edu/), and
-[GenBio AI](https://genbio.ai/).
+**discrete diffusion**, and **benchmarks for AI agents** in finance and biomedicine.
 
-Before MBZUAI I studied at **Beijing National Day School**, where I led the school's synthetic
-biology and [iGEM](https://igem.org/) teams to two consecutive gold medals, and represented China
-in mathematical modeling. That path — from wet-lab genetic circuits to score-based generative
+I do this research in Prof. Steve Liu's
+[Cyber-Physical Intelligence Lab](https://cpil-lab.github.io/) and the
+[AAAAA Community](https://github.com/AAAAA-Academia-Attractions), mentored by
+[Ye Yuan](https://stevenyuan666.github.io/). I am also a Research Engineer Intern at
+[GenBio AI](https://genbio.ai/) and a researcher at the Shanghai Academy of AI for Science, both
+remote, and have collaborated with [Harvard Medical School](https://hms.harvard.edu/).
+
+Before MBZUAI I studied at **Beijing National Day School**, where I led and later instructed the school's synthetic
+biology and [iGEM](https://igem.org/) team, which won gold medals and top-10 finishes three years
+running, and led math-modeling teams to an Outstanding award (top 1%) in the IMMC Greater China round. That path — from wet-lab genetic circuits to score-based generative
 models — is why I care about interdisciplinary work: the most interesting problems rarely respect
 departmental boundaries.
 
@@ -39,9 +44,12 @@ My motto, borrowed from Cressida Cowell, is ***to become a hero the hard way.***
 
 ## News
 
-- **May 2026** — [QUACK](https://arxiv.org/abs/2605.27068), on auditing whether social-deduction agents actually mean what they say, is on arXiv.
-- **May 2026** — [Herculean](https://arxiv.org/abs/2605.14355), an agentic benchmark for financial intelligence, is under review at **NeurIPS 2026**.
-- **May 2026** — [BioXArena](https://arxiv.org/abs/2605.15766), a benchmark for biomedical ML agents, is on arXiv.
+- **Sep 2026** — Reviewing for the **ICLR 2027** main conference.
+- **2026** — [BioXArena](https://arxiv.org/abs/2605.15766) accepted to **NeurIPS 2026**, and [QUACK](https://arxiv.org/abs/2605.27068) to **EMNLP 2026**.
+- **Jul 2026** — Presented [SPADE](https://arxiv.org/abs/2605.11246) at **ICML 2026** in Seoul.
+- **Jul 2026** — Our survey [*Discrete Diffusion Models: A Unified Framework from Tokenization to Generation*](https://arxiv.org/abs/2607.13431) is out; under review at **TMLR**.
+- **May 2026** — Started as a Research Engineer Intern at **GenBio AI** and a researcher at the **Shanghai Academy of AI for Science**.
+- **May 2026** — [Herculean](https://arxiv.org/abs/2605.14355), an agentic benchmark for financial intelligence, is on arXiv; under review at **ACL ARR**.
 - **May 2026** — [SPADE](https://arxiv.org/abs/2605.11246) accepted to **ICML 2026** (co-first author).
 - **Feb 2026** — Serving as a reviewer for the **ICLR 2026 Workshop [FM4Science](https://fm-science.github.io/)**.
 - **Jan 2026** — SPADE also accepted to the **ICLR 2026 [DeLTa](https://openreview.net/forum?id=bTMCB3gorf) workshop**.

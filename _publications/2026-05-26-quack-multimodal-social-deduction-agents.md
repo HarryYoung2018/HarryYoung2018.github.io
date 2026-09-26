@@ -1,16 +1,17 @@
 ---
 title: "QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2026-quack-multimodal-social-deduction-agents
 excerpt: 'Social deduction games are a popular testbed for reasoning and deception in LLM agents, but scoring only win rates cannot tell whether an agent’s words are grounded in what it actually saw and did. QUACK audits agents at three levels — outcomes, trajectories, and utterance-level consistency — and finds even the strongest VLM hallucinates 15.1% of its verifiable spatial claims.'
 date: 2026-05-26
-venue: 'arXiv preprint'
+venue: 'Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)'
+venue_prefix: 'Accepted at'
 paperurl: 'https://arxiv.org/abs/2605.27068'
-citation: 'Ye Yuan, Rui Song, Weien Li, et al. (including Yonghan Yang), and Xue Liu. (2026). &quot;QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents.&quot; <i>arXiv:2605.27068</i>.'
+citation: 'Ye Yuan, Rui Song, Weien Li, et al. (including Yonghan Yang), and Xue Liu. (2026). &quot;QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents.&quot; <i>EMNLP 2026</i>. arXiv:2605.27068.'
 ---
 
-**Status:** preprint on arXiv · **My role:** contributing author.
+**Status:** accepted at **EMNLP 2026** · **My role:** contributing author.
 
 <p>
   <a href="https://arxiv.org/abs/2605.27068" class="btn btn--info">Paper (arXiv)</a>

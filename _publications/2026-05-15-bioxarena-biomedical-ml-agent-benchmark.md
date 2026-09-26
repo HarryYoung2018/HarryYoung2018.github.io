@@ -1,16 +1,17 @@
 ---
 title: "BioXArena: Benchmarking LLM Agents on Multi-Modal Biomedical Machine Learning Tasks"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2026-bioxarena-biomedical-ml-agent-benchmark
 excerpt: 'A biomedical ML coding benchmark testing whether agents can write task-specific model-building code for heterogeneous, often multi-modal biomedical data. 76 end-to-end tasks across 9 domains, each with hidden labels, held-out graders, and biology-aware metrics on a common 0–1 scale — agents must write runnable code, train models, and submit predictions on private test samples.'
 date: 2026-05-15
-venue: 'arXiv preprint'
+venue: 'Conference on Neural Information Processing Systems (NeurIPS 2026)'
+venue_prefix: 'Accepted at'
 paperurl: 'https://arxiv.org/abs/2605.15766'
-citation: 'Loka Li, Duzhen Zhang, Xingbo Du, et al. (including Yonghan Yang), Bin Zhang, and Le Song. (2026). &quot;BioXArena: Benchmarking LLM Agents on Multi-Modal Biomedical Machine Learning Tasks.&quot; <i>arXiv:2605.15766</i>.'
+citation: 'Loka Li, Duzhen Zhang, Xingbo Du, et al. (including Yonghan Yang), Bin Zhang, and Le Song. (2026). &quot;BioXArena: Benchmarking LLM Agents on Multi-Modal Biomedical Machine Learning Tasks.&quot; <i>NeurIPS 2026</i>. arXiv:2605.15766.'
 ---
 
-**Status:** preprint on arXiv · **My role:** key contributions to the formulation of the paper —
+**Status:** accepted at **NeurIPS 2026** · **My role:** key contributions to the formulation of the paper —
 shaping how the benchmark was framed, which task families it should cover, and how agent
 performance is argued for and presented.
 

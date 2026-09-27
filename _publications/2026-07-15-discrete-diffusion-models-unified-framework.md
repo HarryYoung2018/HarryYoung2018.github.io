@@ -10,7 +10,7 @@ paperurl: 'https://arxiv.org/abs/2607.13431'
 citation: 'Ye Yuan, Weien Li, Rui Song, et al. (including Yonghan Yang), Dawn Song, Philip S. Yu, and Xue Liu. (2026). &quot;Discrete Diffusion Models: A Unified Framework from Tokenization to Generation.&quot; <i>arXiv:2607.13431</i>. Under review at TMLR.'
 ---
 
-**Status:** preprint on arXiv, under review at **TMLR** · **My role:** contributing author (13th of 23).
+**Status:** preprint on arXiv, under review at **TMLR** · **My role:** investigated AI-for-Science applications (13th of 23 authors).
 
 <p>
   <a href="https://arxiv.org/abs/2607.13431" class="btn btn--info">Paper (arXiv)</a>

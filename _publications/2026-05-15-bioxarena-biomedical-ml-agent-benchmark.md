@@ -11,12 +11,17 @@ paperurl: 'https://arxiv.org/abs/2605.15766'
 citation: 'Loka Li, Duzhen Zhang, Xingbo Du, et al. (including Yonghan Yang), Bin Zhang, and Le Song. (2026). &quot;BioXArena: Benchmarking LLM Agents on Multi-Modal Biomedical Machine Learning Tasks.&quot; <i>NeurIPS 2026</i>. arXiv:2605.15766.'
 ---
 
-**Status:** accepted at **NeurIPS 2026** · **My role:** key contributions to the formulation of the paper —
+**Status:** accepted at **NeurIPS 2026** (Evaluations & Datasets Track, poster) · **My role:** designed
+multi-modal biomedical ML agent tasks, benchmarked agents, and made key contributions to the formulation of the paper —
 shaping how the benchmark was framed, which task families it should cover, and how agent
 performance is argued for and presented.
 
 <p>
   <a href="https://arxiv.org/abs/2605.15766" class="btn btn--info">Paper (arXiv)</a>
+  <a href="https://github.com/mbzuai-ai4bio/BioXArena" class="btn btn--info">Code</a>
+  <a href="https://mbzuai-ai4bio.github.io/BioXArena-ProjectPage/" class="btn btn--info">Project page</a>
+  <a href="https://huggingface.co/datasets/mbzuai-ai4bio/BioXArena-Data-Public" class="btn btn--info">Dataset</a>
+  <a href="https://openreview.net/forum?id=uFVrUm3zfO" class="btn btn--info">OpenReview</a>
 </p>
 
 ## Summary
@@ -33,4 +38,4 @@ samples.
 - **Biology-aware metrics** are normalized onto a common 0–1 scale, so scores are comparable across
   very different data modalities.
 
-Work with the [GenBio AI](https://genbio.ai/) group under [Prof. Le Song](https://dasongle.github.io/).
+Work at [GenBio AI](https://genbio.ai/), supervised by CTO [Prof. Le Song](https://dasongle.github.io/).

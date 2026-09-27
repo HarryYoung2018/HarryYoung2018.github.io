@@ -17,8 +17,11 @@ citation: 'Yonghan Yang*, Ye Yuan*, Zipeng Sun, Linfeng Du, Bowei He, Haolun Wu,
 
 <p>
   <a href="https://arxiv.org/abs/2605.11246" class="btn btn--info">Paper (arXiv)</a>
-  <a href="https://harryyoung2018.github.io/spade/" class="btn btn--info">Project page</a>
-  <a href="https://github.com/HarryYoung2018/spade" class="btn btn--info">Code</a>
+  <a href="https://aaaaa-academia-attractions.github.io/SPADE/" class="btn btn--info">Project page</a>
+  <a href="https://github.com/AAAAA-Academia-Attractions/SPADE" class="btn btn--info">Code</a>
+  <a href="https://icml.cc/virtual/2026/poster/65718" class="btn btn--info">ICML page</a>
+  <a href="https://slideslive.com/39075120/supportproximity-augmented-diffusion-estimation-for-offline-blackbox-optimization" class="btn btn--info">Video</a>
+  <a href="https://openreview.net/forum?id=AsRnPT3So3" class="btn btn--info">OpenReview</a>
   <a href="/files/spade_icml2026_slides.pdf" class="btn btn--info">Slides (PDF)</a>
   <a href="/files/spade_icml2026_slides.pptx" class="btn btn--info">Slides (PPTX)</a>
   <a href="/files/spade_icml2026_poster.pdf" class="btn btn--info">Poster</a>

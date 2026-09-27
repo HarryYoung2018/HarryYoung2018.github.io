@@ -24,8 +24,10 @@ I do this research in Prof. Steve Liu's
 [Cyber-Physical Intelligence Lab](https://cpil-lab.github.io/) and the
 [AAAAA Community](https://github.com/AAAAA-Academia-Attractions), mentored by
 [Ye Yuan](https://stevenyuan666.github.io/). I am also a Research Engineer Intern at
-[GenBio AI](https://genbio.ai/) and a researcher at the Shanghai Academy of AI for Science, both
-remote, and have collaborated with [Harvard Medical School](https://hms.harvard.edu/).
+[GenBio AI](https://genbio.ai/), under CTO [Prof. Le Song](https://dasongle.github.io/), and at the
+[Shanghai Academy of AI for Science](https://www.sais.com.cn/en), and previously worked in
+Prof. Jun Wen's [Precision-medicine AI Lab](https://jungel2star.github.io/) (MBZUAI &
+[Harvard Medical School](https://hms.harvard.edu/)).
 
 Before MBZUAI I studied at **Beijing National Day School**, where I led and later instructed the school's synthetic
 biology and [iGEM](https://igem.org/) team, which won gold medals and top-10 finishes three years
@@ -38,19 +40,21 @@ My motto, borrowed from Cressida Cowell, is ***to become a hero the hard way.***
 ## Research interests
 
 - **Generative models** — score-based / diffusion models, discrete diffusion, surrogates for optimization
-- **Agentic AI** — memory, retrieval, and evaluation of autonomous LLM agents
-- **AI for science** — AI-driven drug discovery, biomedical ML agents, protein & genetic-circuit modeling
-- **Scientific ML** — physics-informed neural networks, mathematical modeling, and interdisciplinary applications
+- **Agentic AI** — memory, retrieval, multi-agent protocols, and evaluation of autonomous LLM agents
+- **AI for science** — AI-driven drug discovery (AIDD), biomedical ML agents, virtual cells, protein & genetic-circuit modeling
+- **Interdisciplinary AI** — causal inference in finance, mathematical modeling, and other cross-field applications
 
 ## News
 
 - **Sep 2026** — Reviewing for the **ICLR 2027** main conference.
-- **2026** — [BioXArena](https://arxiv.org/abs/2605.15766) accepted to **NeurIPS 2026**, and [QUACK](https://arxiv.org/abs/2605.27068) to **EMNLP 2026**.
+- **Sep 2026** — Submitted *Surrogate-Guided Memory Retrieval for Agents* (co-first author) to the **NeurIPS 2026 [BiAlign](https://bialign-workshop.github.io/neurips2026) workshop**.
+- **2026** — [BioXArena](https://arxiv.org/abs/2605.15766) accepted to **NeurIPS 2026**, [QUACK](https://arxiv.org/abs/2605.27068) to **EMNLP 2026**, and [Herculean](https://arxiv.org/abs/2605.14355) to **ACL 2027**.
 - **Jul 2026** — Presented [SPADE](https://arxiv.org/abs/2605.11246) at **ICML 2026** in Seoul.
 - **Jul 2026** — Our survey [*Discrete Diffusion Models: A Unified Framework from Tokenization to Generation*](https://arxiv.org/abs/2607.13431) is out; under review at **TMLR**.
-- **May 2026** — Started as a Research Engineer Intern at **GenBio AI** and a researcher at the **Shanghai Academy of AI for Science**.
-- **May 2026** — [Herculean](https://arxiv.org/abs/2605.14355), an agentic benchmark for financial intelligence, is on arXiv; under review at **ACL ARR**.
+- **May 2026** — Started as a Research Engineer Intern at the **Shanghai Academy of AI for Science**.
+- **May 2026** — [Herculean](https://arxiv.org/abs/2605.14355), an agentic benchmark for financial intelligence, is on arXiv.
 - **May 2026** — [SPADE](https://arxiv.org/abs/2605.11246) accepted to **ICML 2026** (co-first author).
+- **Mar 2026** — Joined **GenBio AI** as a Research Engineer Intern, and Prof. Jun Wen's **Precision-medicine AI Lab**.
 - **Feb 2026** — Serving as a reviewer for the **ICLR 2026 Workshop [FM4Science](https://fm-science.github.io/)**.
 - **Jan 2026** — SPADE also accepted to the **ICLR 2026 [DeLTa](https://openreview.net/forum?id=bTMCB3gorf) workshop**.
 - **Aug 2025** — Started my B.Sc. in Artificial Intelligence at **MBZUAI** on the *Sheikh Tahnoon bin Zayed Scholarship in AI Excellence*.

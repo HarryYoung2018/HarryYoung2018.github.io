@@ -11,6 +11,7 @@ state-of-the-art results on Design-Bench and language-model optimization.
 
 - **Venue:** ICML 2026 (co-first author) · ICLR 2026 DeLTa workshop
 - **Paper:** [arXiv:2605.11246](https://arxiv.org/abs/2605.11246)
-- **Code:** [github.com/HarryYoung2018/spade](https://github.com/HarryYoung2018/spade)
-- **Project page:** [harryyoung2018.github.io/spade](https://harryyoung2018.github.io/spade/)
+- **Code:** [github.com/AAAAA-Academia-Attractions/SPADE](https://github.com/AAAAA-Academia-Attractions/SPADE)
+- **Project page:** [aaaaa-academia-attractions.github.io/SPADE](https://aaaaa-academia-attractions.github.io/SPADE/)
+- **Talk video:** [SlidesLive](https://slideslive.com/39075120/supportproximity-augmented-diffusion-estimation-for-offline-blackbox-optimization)
 - **Stack:** Python, PyTorch, diffusion models, evolutionary search

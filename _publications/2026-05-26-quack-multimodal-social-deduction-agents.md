@@ -11,11 +11,12 @@ paperurl: 'https://arxiv.org/abs/2605.27068'
 citation: 'Ye Yuan, Rui Song, Weien Li, et al. (including Yonghan Yang), and Xue Liu. (2026). &quot;QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents.&quot; <i>EMNLP 2026</i>. arXiv:2605.27068.'
 ---
 
-**Status:** accepted at **EMNLP 2026** · **My role:** contributing author.
+**Status:** accepted at **EMNLP 2026** (Main Conference) · **My role:** audited the grounding of agents' claims.
 
 <p>
   <a href="https://arxiv.org/abs/2605.27068" class="btn btn--info">Paper (arXiv)</a>
   <a href="https://github.com/AAAAA-Academia-Attractions/QUACK" class="btn btn--info">Code</a>
+  <a href="https://huggingface.co/datasets/5a-community/QUACK" class="btn btn--info">Dataset</a>
 </p>
 
 ## Summary

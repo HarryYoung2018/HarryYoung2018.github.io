@@ -9,9 +9,9 @@ venue: 'Manuscript in preparation'
 citation: 'Yonghan Yang, et al. Semi-Supervised High-Order Relation Learning for Drug–Combination–Disease Prediction. Manuscript in preparation, 2026.'
 ---
 
-**Role:** contributing author · **Status:** in progress.
+**Role:** trained a multi-head-attention (MHA)-based model · **Status:** in progress.
 
 Prediction and analysis over a comprehensive **drug–combination–disease** relationship dataset,
 using **semi-supervised high-order relation learning** to exploit the vast space of unlabeled
-combinations. Supervised by [Prof. Jun Wen](https://jungel2star.github.io/) at
-[Harvard Medical School](https://hms.harvard.edu/).
+combinations. Directly mentored by [Prof. Jun Wen](https://jungel2star.github.io/) in his
+[Precision-medicine AI Lab](https://jungel2star.github.io/) (MBZUAI & [Harvard Medical School](https://hms.harvard.edu/)).
